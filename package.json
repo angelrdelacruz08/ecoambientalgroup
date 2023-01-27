@@ -15,7 +15,8 @@
     "@tailwindcss/jit": "^0.1.7",
     "autoprefixer": "^10.2.5",
     "prefixer": "0.0.3",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "^2.0.3",
+    "win-node-env": "^0.6.1"
   },
   "devDependencies": {
     "msw": "^1.0.0",
